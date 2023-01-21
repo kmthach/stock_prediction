@@ -1,4 +1,5 @@
 # Stock Price Prediction
+### Training model
 See my training steps in training notebook
 
 ### Download data for predict
