@@ -1,6 +1,6 @@
 # Stock Price Prediction
 ### Training model
-See my training steps in training notebook
+See my training steps in training notebook: [Stock Price Prediction](https://colab.research.google.com/drive/1eFpVbcOacr6DXSzNdS1OSk_Q4bILacds?usp=sharing)
 
 ### Download data for predict
 First you have to download data file and put it in repo's root folder. The model will use data as history data to predict 2022 prices.
