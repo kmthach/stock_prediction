@@ -9,7 +9,7 @@ symbol = st.text_input('Type symbol here!')
 N = st.select_slider('Choose top N symbols',[*range(0, 100)])
 inputs = {
     'symbol': symbol,
-    'num_years': N
+    'num_symbol': N
 }
 def call_api():
     res = requests.post(url = 'http://127.0.0.1:5000/predict',data = json.dumps(inputs))

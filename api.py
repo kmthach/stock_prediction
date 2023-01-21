@@ -14,7 +14,7 @@ model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
 
 class Input(BaseModel):
     symbol: str
-    num_years: int
+    num_symbol: int
 
 class Output(BaseModel):
     symbol_price: list
