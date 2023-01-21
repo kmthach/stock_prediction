@@ -11,4 +11,5 @@ Type in your symbol and choose top N symbol then predict
 
 ![App](./app.png)
 
+The result is 2 table of the chosen symbol prices and top N grow rate prices in 2022
 ![result](./result.png)
