@@ -1,6 +1,7 @@
 # Stock Price Prediction
+See my training steps in training notebook
 
-# Prepare data for predict
+### Download data for predict
 First you have to download data file and put it in repo's root folder. The model will use data as history data to predict 2022 prices.
 [Google Drive Link Download](https://drive.google.com/file/d/1--oClO1sXXiyE9LSsJLJbYeNRqIfWgDO/view?usp=sharing)
 
